@@ -41,6 +41,7 @@ This system specifically aims to:
 
 
 
+![Screenshot 2024-01-15 173037](https://github.com/Rentzu/Youth-Den-Apparel-A-Business-to-Consumer-B2C-Digital-Ordering-System/assets/157357694/5ef249f1-aaa0-445a-bd2e-266f3a44543c)
 
 
 
